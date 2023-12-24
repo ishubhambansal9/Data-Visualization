@@ -10,4 +10,4 @@ You will also see any lint errors in the console.
 
 Wine Statistics for Flavanoids and Gamma
 
-!(image.png)
+![image](https://github.com/ishubhambansal9/Data-Visualization/assets/91674898/32bddcb5-067a-4aef-95b6-caf39460f422)
