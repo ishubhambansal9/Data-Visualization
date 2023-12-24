@@ -1,0 +1,25 @@
+.table-wrapper {
+    border: 1px solid #000;
+    width: 500px;
+    margin: 0 auto;
+}
+.table-wrapper th {
+    border-bottom: 1px solid #000;
+    border-right: 1px solid #000;
+    padding: 10px;
+}
+.table-wrapper th:last-child {
+    border-right: none;
+    padding: 10px;
+}
+.table-wrapper td {
+    border-bottom: 1px solid #000;
+    border-right: 1px solid #000;
+    padding: 10px;
+}
+.table-wrapper tr:last-child td {
+    border-bottom: none;
+}
+.table-wrapper tr td:last-child{
+    border-right: none;
+}

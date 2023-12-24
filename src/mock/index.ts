@@ -1,0 +1,1 @@
+export { wineMockData } from './wine-data.mock';
